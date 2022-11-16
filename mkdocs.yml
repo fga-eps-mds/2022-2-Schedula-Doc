@@ -1,0 +1,24 @@
+site_name: Schedula
+
+repo_name: "2022.2-Schedula"
+repo_url: "https://github.com/fga-eps-mds/2022-2-Schedula-Doc"
+
+theme:
+  name: material
+  language: "pt"
+  logo: "global/assets/favicon.ico"
+  favicon: "global/assets/favicon.ico"
+  palette:
+    primary: "red"
+    accent: "red"
+  font:
+    text: "Montserrat"
+    code: "sans-serif"
+
+extra_css:
+  - stylesheets/styles.css
+
+nav:
+  - Início: index.md
+  
+dev_addr: "0.0.0.0:8000"
