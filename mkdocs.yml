@@ -22,5 +22,7 @@ nav:
   - Início: index.md
   - Gestão de Projeto:
     - Estrutura Analítica do Projeto: gestao_de_projeto/estrutura_analitica_do_projeto.md
+  - Modelagem:
+    - Backlog: modelagem/backlog.md
   
 dev_addr: "0.0.0.0:8000"
