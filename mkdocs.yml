@@ -21,6 +21,7 @@ extra_css:
 nav:
   - Início: index.md
   - Gestão de Projeto:
-    - Estrutura Analítica do Projeto: gestao_de_projeto/estrutura_analitica_do_projeto.md
-  
+      - Estrutura Analítica do Projeto: gestao_de_projeto/estrutura_analitica_do_projeto.md
+      - Plano de Gerenciamento de Riscos: gestao_de_projeto/gerenciamento_de_risco.md
+
 dev_addr: "0.0.0.0:8000"
