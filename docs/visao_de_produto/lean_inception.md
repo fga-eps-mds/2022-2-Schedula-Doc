@@ -4,7 +4,7 @@ Lean inception é a combinação eficaz do Design Thinking e do Lean StartUp par
 ## 1. Histórico de versão
 | Versão | Data       | Descrição                                                                   | Autor           |
 | ------ | ---------- | --------------------------------------------------------------------------- | --------------- |
-| 0.1    | 10/11/2022 | Criação do Documento                                   | Thiago Mesquita |
+| 0.1    | 10/12/2022 | Criação do Documento                                   | Thiago Mesquita |
 
 ## 2. Planejamento
 
