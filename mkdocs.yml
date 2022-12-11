@@ -22,6 +22,7 @@ nav:
   - Início: index.md
   - Gestão de Projeto:
       - Estrutura Analítica do Projeto: gestao_de_projeto/estrutura_analitica_do_projeto.md
+      - Plano de Custos: gestao_de_projeto/plano_de_custo.md
       - Plano de Gerenciamento de Riscos: gestao_de_projeto/gestao_de_risco.md
     - Estrutura Analítica do Projeto: gestao_de_projeto/estrutura_analitica_do_projeto.md
   - Modelagem:
