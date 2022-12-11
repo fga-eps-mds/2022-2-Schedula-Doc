@@ -31,4 +31,5 @@ nav:
   - Planejamento:
     - Metodologia: planejamento/metodologias.md
     - Planejamento de Comunicação: planejamento/comunicacao.md
+  - Guia de Contribuição: guia_de_contribuicao.md
 dev_addr: "0.0.0.0:8000"
