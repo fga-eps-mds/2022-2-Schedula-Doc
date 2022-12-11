@@ -4,6 +4,7 @@
 | Versão | Data       | Descrição | Autor |
 | ------ | ---------- | --------- | ------ |
 | 0.1    | 10/12/2022 | Criação do documento | Lucas Rodrigues |
+| 1.0   | 11/12/2022 | Revisão do documento | Kleidson Alves, Lucas Rodrigues |
 
 ## Motivação
 
@@ -19,13 +20,13 @@ Issues podem ser criadas para descrever novas funcionalidades, para informar pro
 ## Branches
 Crie branches para novas funcionalidades ou correções, para que seja feito o merge na develop e posteriormente adicionadas a branch principal.
 - Novas branches devem ser criadas tendo como base a develop.
-- Caso haja uma história de usuário relacionada, indique-a história no nome da branch.
+- Caso haja uma história de usuário relacionada, indique a história no nome da branch.
 
 ## Pull Requests
 Pull Requests podem ser criadas para adicionar novas funcionalidades, correções ou documentações ao código principal.
 - O título e a descrição do pull request devem descrever claramente o que está sendo alterado.
-- O pull request deve possuir um link para a issue relacionada.
-- As funcionalidades implementadas devem atender os critérios definidos na issue relacionada.
+- O pull request deve estar linkado com a issue a ele associada para uma melhor rastreabilidade.
+- As funcionalidades implementadas devem atender os critérios de aceitação definidos na issue relacionada.
 - Para uma melhor padronização do formato dos pull requests utilize os templates disponibilizados no repositório.
 
 ## Commits
