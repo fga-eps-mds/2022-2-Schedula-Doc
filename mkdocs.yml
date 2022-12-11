@@ -23,6 +23,7 @@ nav:
   - Gestão de Projeto:
     - Estrutura Analítica do Projeto: gestao_de_projeto/estrutura_analitica_do_projeto.md
   - Planejamento:
+    - Metodologia: planejamento/metodologias.md
     - Planejamento de Comunicação: planejamento/comunicacao.md
   
 dev_addr: "0.0.0.0:8000"

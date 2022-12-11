@@ -9,7 +9,7 @@ como em encontros assíncronos, e as ferramentas utilizadas para esses propósit
 
 ## 2. Quadro de disponibilidade
 
-![EAP](./assets/horariostime.png)
+![Quadro de disponibilidade](./assets/horariostime.png)
 
 ## 2. Horários de reunião do time
 
