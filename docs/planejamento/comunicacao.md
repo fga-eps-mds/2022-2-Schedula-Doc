@@ -15,7 +15,7 @@ como em encontros assíncronos, e as ferramentas utilizadas para esses propósit
 
 | Dias | Horário | Reunião |
 | :--------: | :--------: | :--------: |
-| Segunda    | 18:30 | Reunião com o PO |
+| Segunda    | 18:00 | Reunião com o PO |
 | Sábado     | 09:00 | Planning/Review |
 | Segunda à Sexta    | 20:00 | Daily |
 
