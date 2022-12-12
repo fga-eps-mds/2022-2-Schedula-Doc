@@ -22,17 +22,9 @@ Lean inception é a combinação eficaz do Design Thinking e do Lean StartUp par
 
 ## 3. Resultado
 
-
-<div style="width: 100%;" class="embed-thumb"> 
-  <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:22px; color: #393939;margin-bottom: 10px; font-weight: 300;font-family: Proxima Nova, sans-serif;">  
-  <div style="padding-left:50px"> 
-    <span style="max-width:555px;display: inline-block;overflow: hidden; white-space: nowrap;text-overflow: ellipsis;line-height: 1; height: 25px; margin-top: -3px;">Lean Inception</span> 
-    <span style="position:relative;top:-3px;font-size: 16px; margin-top: -6px; line-height: 24px;color: #393939; font-weight: 300;"></span> 
-  </div> </h1> 
-  <div style="position: relative; height: 0;overflow: hidden; height: 600px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 100%; height: 100%;background: url('./assets/leaninceptionmural.png') no-repeat center center; background-size: cover;"> 
-  <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"></div>
-  <a href="https://app.mural.co/t/unbfgaepsmds202111846/m/unbfgaepsmds202111846/1667845173427/cd33f396fcdd5f90fd708ffe007a5ddcc26b71e6?sender=u50c434c18183b02a4d128237" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: #F1F1;">
-  <img src="./assets/button.png" alt="ENTER THE MURAL" width="233" height="50"></a> 
-  </div> 
-  </div> <p style="margin-top: 10px;margin-bottom: 60px;line-height: 24px; font-size: 16px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #9999;"> Lean Inception by Schedula </p>
-</div>
+<iframe src='https://app.mural.co/embed/69a6def1-a326-4576-af58-fb35ebf88a0a'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 600px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
