@@ -21,21 +21,22 @@ extra_css:
 nav:
   - Início: index.md
   - Planejamento:
-    - Metodologia: planejamento/metodologias.md
-    - Planejamento de Comunicação: planejamento/comunicacao.md
-    - Quadro de conhecimentos: planejamento/conhecimento.md
+      - Metodologia: planejamento/metodologias.md
+      - Planejamento de Comunicação: planejamento/comunicacao.md
+      - Quadro de conhecimentos: planejamento/conhecimento.md
   - Visão de Produto:
-    - Lean Inception: visao_de_produto/lean_inception.md
+      - Lean Inception: visao_de_produto/lean_inception.md
   - Modelagem:
-    - Backlog: modelagem/backlog.md
+      - Backlog: modelagem/backlog.md
   - Gestão de Projeto:
-    - Estrutura Analítica do Projeto: gestao_de_projeto/estrutura_analitica_do_projeto.md
-    - Plano de Custos: gestao_de_projeto/plano_de_custo.md
-    - Plano de Gerenciamento de Riscos: gestao_de_projeto/gestao_de_risco.md
-    - Estrutura Analítica do Projeto: gestao_de_projeto/estrutura_analitica_do_projeto.md
+      - Estrutura Analítica do Projeto: gestao_de_projeto/estrutura_analitica_do_projeto.md
+      - Plano de Custos: gestao_de_projeto/plano_de_custo.md
+      - Plano de Gerenciamento de Riscos: gestao_de_projeto/gestao_de_risco.md
+      - Estrutura Analítica do Projeto: gestao_de_projeto/estrutura_analitica_do_projeto.md
   - Sprints:
-    - Sprint 0: sprints/sprint-0.md
-    - Sprint 1: sprints/sprint-1.md
-    - Sprint 2: sprints/sprint-2.md
+      - Sprint 0: sprints/sprint-0.md
+      - Sprint 1: sprints/sprint-1.md
+      - Sprint 2: sprints/sprint-2.md
+  - Treinamento: treinamento.md
   - Guia de Contribuição: guia_de_contribuicao.md
 dev_addr: "0.0.0.0:8000"
