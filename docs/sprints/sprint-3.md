@@ -56,3 +56,9 @@
 | [#25](https://github.com/fga-eps-mds/2022-2-Schedula-Doc/issues/25) | Implementação de testes | Em progresso |
 | [#58](https://github.com/fga-eps-mds/2022-2-Schedula-Doc/issues/58) | Configurar Roadmap no Zenhub | Concluído |
 
+## Retrospective
+Como um bom ponto sobre o quadro de empatia vale ressaltar que a visão do time está alinhada ao desenvolvimento do projeto. No entanto o sentimento do time mostra que todos estão ansiosos com a release 1 pela falta de planejamento e tempo perdido.
+
+Em relação as fortalezas o time consegue ver com o empenho e esforço bem evidênciado. Para mitigação das fraquezas do time foi levantado a necessidade de melhorar a comunicação e integração do time.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbxSVOqQlYf-5a3Z_XGLfOjnqxoDEXdbMylx9a6_zco62uRueMKDK-XwIYYAiUaPUrYSNgub5kxEI2/pubhtml?gid=1931803189&single=true" height=800" width="1500"></iframe>
