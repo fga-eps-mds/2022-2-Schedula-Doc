@@ -8,13 +8,11 @@ O Schedula tem como objetivo auxiliar o gerenciamento de chamados realizados pel
 
 ### Integrantes de EPS
 
-
-
 <center>
 
 <div style="display: flex; flex-direction: row; gap: 15px" >
     <div>
-        <a href="https://github.com/kleidsonalves">
+        <a href="https://github.com/kleidson-alves">
                 <img style="border-radius: 50%;"         src="https://github.com/kleidson-alves.png" width="100px;"/>
                 <h5 class="text-center">Kleidson Alves</h5>
         </a>       
