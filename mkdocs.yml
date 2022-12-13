@@ -33,9 +33,10 @@ nav:
     - Plano de Custos: gestao_de_projeto/plano_de_custo.md
     - Plano de Gerenciamento de Riscos: gestao_de_projeto/gestao_de_risco.md
   - Sprints:
-      - Sprint 0: sprints/sprint-0.md
-      - Sprint 1: sprints/sprint-1.md
-      - Sprint 2: sprints/sprint-2.md
+    - Sprint 0: sprints/sprint-0.md
+    - Sprint 1: sprints/sprint-1.md
+    - Sprint 2: sprints/sprint-2.md
+    - Sprint 3: sprints/sprint-3.md
   - Treinamento: treinamento.md
   - Guia de Contribuição: guia_de_contribuicao.md
 dev_addr: "0.0.0.0:8000"
