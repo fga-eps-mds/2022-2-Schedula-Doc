@@ -54,6 +54,10 @@ Será levado em conta o fato de que cada membro participante do projeto já poss
 | Equipamento | R$ 0,00 | R$ 0,00  | R$ 0,00 |
 | **Total** | **R$ 1.131,86** | **R$ 7.923,04** | **R$ 126.768,63** |
 
+## Planilha de custos
+
+<iframe width="950" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTd2XUfCDXdrhDxOicdwLxMcdH1Qnly1wyu5plVhicJmpx2pfRuxW5RC6iUVyv0FcPX0eC2cflwIgN9/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 # Referências
 
 BOVO, José Murari. Cobrança de mensalidade não é a solução para o financiamento da universidade pública. https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica. Acesso em: 17 dez. 2022.
