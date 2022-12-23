@@ -7,18 +7,21 @@
 | 0.1    | 09/12/2022 | Criação do documento | Lucas Rodrigues, Kleidson Alves |
 | 1.0    | 12/12/2022 | Adição de informações | Lucas Rodrigues, Kleidson Alves |
 | 2.0    | 17/12/2022 | Atualização de cálculos e referência | Lucas Rodrigues |
+| 2.1    | 23/12/2022 | Custos de pessoal e equipamento atualizados | Lucas Rodrigues, Kleidson Alves |
 
 ## 2. Análise de custos
 
 ### Pessoal
 
-Segundo BOVO, o custo anual de um aluno em uma universidade federal é de R$ 27.850,00. Logo, o custo semanal, levando em consideração que um ano possui 48 semanas, é de aproximadamente R$ 580,21. Sabendo que a equipe conta com 13 membros, o custo semanal total de pessoal é de aproximadamente R$ 7.542,71.
+Segundo BOVO, o custo anual de um aluno em uma universidade federal é de R$ 27.850,00, porém trata-se de um dado referente ao ano de 2015. Ao aplicar a correção da inflação sobre esse valor, obtemos o valor de R$ 40.099,51 como sendo o custo anual de um aluno universitário. 
 
-**quantidade de membros x (custo anual de um aluno ÷ quantidade de semanas no ano) ≈ R$ 7.542,71**
+Levando em consideração que um ano possui 48 semanas, temos que o custo semanal do estudante é de aproximadamente R$ 835,41. Sabendo que a equipe conta com 13 membros, o custo semanal total referente ao pessoal é de aproximadamente R$ 10.860,28.
 
-Como a duração do projeto é de 16 semanas, o custo total de pessoal do projeto é de aproximadamente R$ 120.683,33.
+**quantidade de membros x (custo anual de um aluno ÷ quantidade de semanas no ano) ≈ R$ 10.860,28**
 
-**custo semanal de pessoal x duração do semestre (semanas) ≈ R$ 120.683,33**
+Como a duração do projeto é de 16 semanas, o custo total de pessoal do projeto é de aproximadamente R$ 173.764,54.
+
+**custo semanal de pessoal x duração do semestre (semanas) ≈ R$ 173.764,54**
 
 ### Energia
 
@@ -42,17 +45,21 @@ Já que o projeto tem como duração o período de aproximadamente 16 semanas, o
 
 ### Equipamento
 
-Será levado em conta o fato de que cada membro participante do projeto já possui um computador para trabalhar, totalizando um gasto de R$ 0,00 com equipamentos.
+Para a realização das atividades de desenvolvimento, cada membro necessita utilizar um computador capaz de executar as ferramentas que foram definidas definidas para o desenvolvimento do projeto. Por isso, foi escolhido o notebook Dell Inspiron 15 3000, que inclui um processador Intel Core I3 e 8GB de memória RAM, e custa R$ 3.248,00. As demais especificações podem ser encontradas [nesse link](https://www.dell.com/pt-br/shop/notebooks/notebook-inspiron-15-3000/spd/inspiron-15-3511-laptop/i3511u1017w).
+
+Multiplicando o preço do equipamento pelos 13 membros participantes, o valor obtido é de R$ 42.224,00.
+
+**quantidade de membros x preço do equipamento ≈ R$ 42.224,00**
 
 ## Resumo dos custos
 
 | Tipo de custo | Custo por dia | Custo por semana | Custo total |
 | :--------: | :--------: | :---------: | :--------: |
-| Pessoal | R$ 1.077,53 | R$ 7.542,71 | R$ 120.683,33 |
+| Pessoal | R$ 1.551,45 | R$ 10.860,20 | R$ 173.764,54 |
 | Energia | R$ 1,33 | R$ 9,34 | R$ 149,50 |
 | Internet | R$ 53,00 | R$ 370,99  | R$  5.935,80 |
-| Equipamento | R$ 0,00 | R$ 0,00  | R$ 0,00 |
-| **Total** | **R$ 1.131,86** | **R$ 7.923,04** | **R$ 126.768,63** |
+| Equipamento | - | -  | R$ 42.224,00 |
+| **Total** | **R$ 1.605,78** | **R$ 11.240,53** | **R$ 222.073,84** |
 
 ## Planilha de custos
 
@@ -60,12 +67,12 @@ Será levado em conta o fato de que cada membro participante do projeto já poss
 
 # Referências
 
-BOVO, José Murari. Cobrança de mensalidade não é a solução para o financiamento da universidade pública. https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica. Acesso em: 17 dez. 2022.
+BOVO, José Murari. Cobrança de mensalidade não é a solução para o financiamento da universidade pública. Disponível em: https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica. Acesso em: 17 dez. 2022.
 
-ITFORUM. Brasileiros pagam R$  114 em média para ter acesso à internet. https://itforum.com.br/noticias/brasileiros-pagam-r-114-em-media-para-ter-acesso-a-internet. Acesso em: 09 dez. 2022.
+IBGE. O que é inflação. Disponível em: https://www.ibge.gov.br/explica/inflacao.php. Acesso em: 23 dez. 2022.
 
-MPGO. DICAS PARA ECONOMIA DE ENERGIA AO USAR O COMPUTADOR. http://www.mpgo.mp.br/portal/conteudo/dicas-para-economia-de-energia-ao-usar-o-computador. Acesso em: 09 dez. 2022.
+ITFORUM. Brasileiros pagam R$ 114 em média para ter acesso à internet. Disponível em: https://itforum.com.br/noticias/brasileiros-pagam-r-114-em-media-para-ter-acesso-a-internet. Acesso em: 09 dez. 2022.
 
-UNB. Cepe aprova proposta de calendário acadêmico. https://noticias.unb.br/76-institucional/5413-cepe-aprova-proposta-de-calendario-academico. Acesso em: 09 dez. 2022.
+MPGO. DICAS PARA ECONOMIA DE ENERGIA AO USAR O COMPUTADOR. Disponível em: http://www.mpgo.mp.br/portal/conteudo/dicas-para-economia-de-energia-ao-usar-o-computador. Acesso em: 09 dez. 2022.
 
-WEBARCONDICIONADO. Tarifa Energia Elétrica: o Valor do kWh nas principais Cidades. https://www.webarcondicionado.com.br/tarifa-de-energia-eletrica-kwh-valores-e-ranking-cidades. Acesso em: 09 dez. 2022.
+WEBARCONDICIONADO. Tarifa Energia Elétrica: o Valor do kWh nas principais Cidades. Disponível em: https://www.webarcondicionado.com.br/tarifa-de-energia-eletrica-kwh-valores-e-ranking-cidades. Acesso em: 09 dez. 2022.
