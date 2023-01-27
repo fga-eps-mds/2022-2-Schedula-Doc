@@ -68,7 +68,7 @@ As variáveis necessárias para o projeto são as seguintes:
   VITE_PUBLIC_GERENCIADOR_DE_LOCALIDADES_URL=https://schedula-location.herokuapp.com
 ```
 
-Onde VITE_PUBLIC_DETALHADOR_CHAMADOS_URL é a URL de deploy do serviço de chamados, VITE_PUBLIC_GESTOR_DE_USUARIOS_URL é a URL de ploy do serviço de usuários e VITE_PUBLIC_GERENCIADOR_DE_LOCALIDADES_URL é a URL de deploy do serviço de localidades.
+Onde VITE_PUBLIC_DETALHADOR_CHAMADOS_URL é a URL de deploy do serviço de chamados, VITE_PUBLIC_GESTOR_DE_USUARIOS_URL é a URL de deploy do serviço de usuários e VITE_PUBLIC_GERENCIADOR_DE_LOCALIDADES_URL é a URL de deploy do serviço de localidades.
 
 ---
 
