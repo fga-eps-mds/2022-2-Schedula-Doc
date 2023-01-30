@@ -5,6 +5,7 @@
 | Versão | Data       | Descrição            | Autor        |
 | ------ | ---------- | -------------------- | ------------ |
 | 1.0    | 26/01/2023 | Criação do documento | Paulo Victor |
+| 2.0    | 30/01/2023 | Adição de passo a passo para deploy com Docker | Paulo Victor |
 
 ## Introdução
 
