@@ -6,13 +6,58 @@
 | ------ | ---------- | -------------------- | ------------ |
 | 1.0    | 26/01/2023 | Criação do documento | Paulo Victor |
 
-## 2. Introdução
+## Introdução
 
 Neste guia, iremos fornecer uma passo a passo para a geração da build do projeto Schedula(WEB) e as variáveis ambiente necessárias para a execução do mesmo.
 
 ---
 
-## 3. Pré-requisitos
+# Deploy com Docker
+
+## Pré-requisitos
+- Docker
+
+## Passo a Passo
+O primeiro passo é clonarmos o projeto na máquina. Para isso, utilize o comando abaixo:
+
+```sh
+  > git clone https://github.com/fga-eps-mds/2022-2-schedula-front.git
+```
+---
+
+Para que o projeto funcione conforme o esperado, se faz necessário a adição de variáveis ambientes. Crie um arquivo `.env` na raiz do projeto e adicione  as seguintes variáveis ambiente que são necessárias para o projeto:
+
+```sh
+  VITE_PUBLIC_DETALHADOR_CHAMADOS_URL=            # Ex: VITE_PUBLIC_DETALHADOR_CHAMADOS_URL=https://schedula-core.herokuapp.com
+
+  VITE_PUBLIC_GESTOR_DE_USUARIOS_URL=             # Ex: VITE_PUBLIC_GESTOR_DE_USUARIOS_URL=https://schedula-user.herokuapp.com
+
+  VITE_PUBLIC_GERENCIADOR_DE_LOCALIDADES_URL=     # Ex: VITE_PUBLIC_GERENCIADOR_DE_LOCALIDADES_URL=https://schedula-location.herokuapp.com
+```
+
+Onde VITE_PUBLIC_DETALHADOR_CHAMADOS_URL é a URL de deploy do serviço de chamados, VITE_PUBLIC_GESTOR_DE_USUARIOS_URL é a URL de deploy do serviço de usuários e VITE_PUBLIC_GERENCIADOR_DE_LOCALIDADES_URL é a URL de deploy do serviço de localidades.
+
+---
+
+Com o clone do repositório concluído, vamos executar o seguinte comando para que o Docker construa o container do projeto.
+```sh
+  > docker build -t schedula:production . 
+```
+
+---
+
+Com a imagem construída com sucesso, podemos passar para a execução desse container.
+
+```sh
+  > docker run -it -p 80:80 --rm schedula:production
+```
+
+### Pronto! Basta acessar o localhost da maquina que a aplicação estará em execução.
+
+---
+# Deploy sem docker
+
+## Pré-requisitos
 
 - Node(versão 16 ou maior)
 - npm
@@ -20,7 +65,7 @@ Neste guia, iremos fornecer uma passo a passo para a geração da build do proje
 
 ---
 
-## 4. Passo a Passo
+## Passo a Passo
 
 > O primeiro passo então é instalarmos o NodeJS versão 16(LTS) ou maior na máquina onde será realizado o deploy.
 
@@ -54,7 +99,7 @@ Feito os passos acima, teremos uma nova pasta criada chamada **dist**. Dentro de
 
 > Caso esteja realizando esse processo em sua máquina local e queira ter uma demonstração de como a aplicação está funcionando, basta utilizar o comando `yarn preview` para que a aplicação seja executada usando o código gerado após a build do projeto.
 
-## 5. Variáveis Ambiente
+## Variáveis Ambiente
 
 Para que o projeto funcione conforme o esperado, se faz necessário a adição de variáveis ambientes. Caso esteja fazendo isso localmente, crie um arquivo `.env` na raiz do projeto. Caso esteja usando alguma plataforma online, adicione as variáveis conforme orientado pela mesma.
 
@@ -72,7 +117,15 @@ Onde VITE_PUBLIC_DETALHADOR_CHAMADOS_URL é a URL de deploy do serviço de chama
 
 ---
 
-## 6. Resumo
+## Executando build
+ Com o processo da build concluído, o próximo passo é iniciarmos o servidor que irá servir os arquivos estáticos. Para isso, basta executarmos:
+ ```sh
+  > yarn start
+ ```
+
+---
+
+## Resumo (Sem Docker)
 
 ```sh
   # Passo 1
@@ -88,12 +141,15 @@ Onde VITE_PUBLIC_DETALHADOR_CHAMADOS_URL é a URL de deploy do serviço de chama
   > yarn
 
   # Passo 5
-  yarn build
+  > yarn build
 
   # Passo 6
   Adição das variáveis de ambiente:
   - VITE_PUBLIC_DETALHADOR_CHAMADOS_URL
   - VITE_PUBLIC_GESTOR_DE_USUARIOS_URL
   - VITE_PUBLIC_GERENCIADOR_DE_LOCALIDADES_URL
+  
+  # Passo 7
+  > yarn start
 
 ```
