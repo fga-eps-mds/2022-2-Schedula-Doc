@@ -50,7 +50,7 @@ Com o clone do repositório concluído, vamos executar o seguinte comando para q
 Com a imagem construída com sucesso, podemos passar para a execução desse container.
 
 ```sh
-  > docker run -it -p 80:80 --rm schedula:production
+  > docker run -it -p 3000:3000 --rm schedula:production
 ```
 
 ### Pronto! Basta acessar o localhost da maquina que a aplicação estará em execução.
