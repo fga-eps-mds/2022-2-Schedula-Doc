@@ -1,4 +1,4 @@
-# Sprints 0
+# Sprint 0
 
 ## 1. Histórico de versão
 | Versão | Data       | Descrição                                                                   | Autor           |
