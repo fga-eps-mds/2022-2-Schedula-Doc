@@ -103,6 +103,10 @@ EAR é uma ferramenta por meio da qual os riscos apresentados ao projeto são or
 | R01 |                                                   -                                                   |                                                 Redistribuição de atividades dentro do escopo do projeto                                                 |
 | R05 |                                                   -                                                   |                                                         Alterar horário de realização da tarefa                                                          |
 
+## 8 Acompanhamento dos riscos
+
+<iframe width="950" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqRTpe0TMi4xNQQo2XGWJCI_83EKXY6C1HX8UqbrzU2lN3U9sXvqcKNpa85SPFzHmt-SvnrfXrMOaA/pubhtml?widget=true&amp;headers=false"></iframe>
+
 ## Referências
 
 Gerência de riscos em desenvolvimento de software. Disponível em: https://www.devmedia.com.br/gerencia-de-riscos-em-desenvolvimento-de-software/28506. Acesso em: 23/12/2022
