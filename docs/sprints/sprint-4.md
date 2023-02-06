@@ -32,9 +32,9 @@
 | Issue | Título | Status |
 | ---- | ---- | ---- |
 | [#35](https://github.com/fga-eps-mds/2022-2-Schedula-Doc/issues/35) | [US06] - Cadastro de cidades | Concluída |
-| [#36](https://github.com/fga-eps-mds/2022-2-Schedula-Doc/issues/36) | [US07] - Cadastro de posto de trabalho | Concluída |
+| [#36](https://github.com/fga-eps-mds/2022-2-Schedula-Doc/issues/36) | [US07] - Cadastro de posto de trabalho | Dívida Técnica |
 | [#37](https://github.com/fga-eps-mds/2022-2-Schedula-Doc/issues/37) | [US08] - Cadastro de categoria de problemas | Dívida Técnica |
-| [#85](https://github.com/fga-eps-mds/2022-2-Schedula-Doc/issues/85) | Integração e refatoração das funcionalidades de cidades e postos de trabalhos | Concluída |
+| [#85](https://github.com/fga-eps-mds/2022-2-Schedula-Doc/issues/85) | Integração e refatoração das funcionalidades de cidades e postos de trabalhos | Dívida Técnica |
 | Não Rastreada | Revisão dos Pull Requests abertos | Concluída |
 | Não Rastreada | Aumentar a cobertura de testes nos serviços com funcionalidades entregues na R1 | Concluída |
 
