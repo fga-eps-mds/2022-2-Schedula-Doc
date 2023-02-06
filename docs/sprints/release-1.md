@@ -10,7 +10,7 @@
 ## Planejamento
 
 **Inicio:** 28/11/2022</br>
-**Fim:** 03/12/2022
+**Fim:** 10/12/2022
 
 | Issue | História | Responsáveis |
 | ---- | ---- | ---- |
