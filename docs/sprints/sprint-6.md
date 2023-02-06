@@ -11,8 +11,8 @@
 
 ## Planejamento
 
-**Inicio:** 13/01/2022</br>
-**Fim:** 17/01/2023
+**Inicio:** 09/01/2023</br>
+**Fim:** 20/01/2023
 
 
 | Issue | Título | Responsáveis |
